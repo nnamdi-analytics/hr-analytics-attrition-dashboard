@@ -1,7 +1,7 @@
 # HR Analytics: Employee Attrition Dashboard
 
-**Overview**  
-This project analyzes employee attrition using SQL, BigQuery, and Looker Studio. It explores key HR metrics, identifies drivers of employee turnover, and provides insights to support data‑driven decision‑making.
+## Overview
+This project analyzes employee attrition using SQL, Google BigQuery, and Looker Studio. It explores key HR metrics, identifies drivers of employee turnover, and provides insights to support data-driven decision-making.
 
 ---
 
@@ -14,7 +14,7 @@ This project analyzes employee attrition using SQL, BigQuery, and Looker Studio.
 ---
 
 ## Tools Used
-- **SQL** (BigQuery)  
+- **SQL (Google BigQuery)**  
 - **Looker Studio**  
 - **Google Sheets**  
 - **GitHub**  
@@ -41,6 +41,8 @@ This project analyzes employee attrition using SQL, BigQuery, and Looker Studio.
 - Overtime and long working hours strongly correlate with attrition  
 - Employees with lower monthly income are more likely to leave  
 
+---
+
 ## 📊 Dashboard Screenshots
 
 ### Overall Workforce KPIs
@@ -55,18 +57,16 @@ This project analyzes employee attrition using SQL, BigQuery, and Looker Studio.
 ### Overtime vs Attrition
 ![Overtime vs Attrition](screenshots/overtime_vs_attrition.png)
 
-
 ---
 
-## Dashboard Link## 📊 Interactive Dashboard
-
+## 📊 Interactive Dashboard
 The interactive dashboard for this project was built using **Looker Studio** and connected directly to **Google BigQuery**.
 
 👉 **View the dashboard here:**  
-[IBM HR Attrition Dashboard (Looker Studio)(https://lookerstudio.google.com/reporting/0b76572e-8484-4c12-942d-6438d2a4b73f))
-
+[IBM HR Attrition Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/0b76572e-8484-4c12-942d-6438d2a4b73f)
 
 ---
 
 ## Author
-Nnamdi – Data Analyst  
+**Nnamdi**  
+Data Analyst
