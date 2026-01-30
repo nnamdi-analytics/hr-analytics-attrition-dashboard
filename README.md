@@ -41,7 +41,20 @@ This project analyzes employee attrition using SQL, BigQuery, and Looker Studio.
 - Overtime and long working hours strongly correlate with attrition  
 - Employees with lower monthly income are more likely to leave  
 
-(A full insights section will be added later.)
+## 📊 Dashboard Screenshots
+
+### Overall Workforce KPIs
+![Overall Workforce KPIs](screenshots/kpi_overview.png)
+
+### Attrition by Job Role
+![Attrition by Job Role](screenshots/attrition_by_job_role.png)
+
+### Attrition by Department
+![Attrition by Department](screenshots/attrition_by_department.png)
+
+### Overtime vs Attrition
+![Overtime vs Attrition](screenshots/overtime_vs_attrition.png)
+
 
 ---
 
