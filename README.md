@@ -45,8 +45,13 @@ This project analyzes employee attrition using SQL, BigQuery, and Looker Studio.
 
 ---
 
-## Dashboard Link
-Add your Looker Studio link here once the dashboard is published.
+## Dashboard Link## 📊 Interactive Dashboard
+
+The interactive dashboard for this project was built using **Looker Studio** and connected directly to **Google BigQuery**.
+
+👉 **View the dashboard here:**  
+[IBM HR Attrition Dashboard (Looker Studio)(https://lookerstudio.google.com/reporting/0b76572e-8484-4c12-942d-6438d2a4b73f))
+
 
 ---
 
