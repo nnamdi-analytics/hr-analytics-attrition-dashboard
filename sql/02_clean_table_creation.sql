@@ -1,5 +1,22 @@
+-- =====================================================
 -- CLEAN TABLE CREATION
--- This query standardizes fields and creates a clean dataset for analysis
+-- File: 02_create_employee_attrition_clean.sql
+--
+-- Purpose:
+-- Creates a cleaned, analysis-ready employee attrition table
+-- from the raw employee_attrition dataset.
+--
+-- Key Transformations:
+-- - Converts Attrition field into numeric attrition_flag
+--   (1 = Left, 0 = Stayed)
+-- - Selects relevant analytical fields only
+-- - Standardizes structure for downstream analysis and dashboards
+--
+-- Output Table:
+-- hr_analytics.employee_attrition_clean
+--
+-- =====================================================
+
 
 CREATE OR REPLACE TABLE
   `nnamdi-hr-analytics-capstone.hr_analytics.employee_attrition_clean` AS
