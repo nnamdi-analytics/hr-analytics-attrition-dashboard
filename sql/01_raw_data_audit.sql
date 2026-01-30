@@ -1,5 +1,20 @@
--- RAW DATA AUDIT
--- Basic checks to understand the structure and quality of the raw dataset
+-- =====================================================
+-- RAW DATA AUDIT / EXPLORATORY ANALYSIS
+-- File: 01_raw_data_audit.sql
+--
+-- Purpose:
+-- Initial exploratory checks on the raw employee_attrition table
+-- to understand structure, completeness, and categorical values.
+--
+-- Notes:
+-- - Used only for early data understanding
+-- - Final analysis and dashboard are based on:
+--   employee_attrition_clean
+-- - Raw Attrition field is later transformed into:
+--   attrition_flag (1 = Left, 0 = Stayed)
+--
+-- =====================================================
+
 
 -- 1. Count total rows
 SELECT COUNT(*) AS total_rows
